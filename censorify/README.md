@@ -1,1 +1,8 @@
-Use this to censor bad words from text!
+Detailed Description: 
+
+Blah blah blah. 
+blah blah
+blah
+
+blah blah blah blah blah blah blah
+

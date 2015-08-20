@@ -1,7 +1,16 @@
 {
    "author": "Narain Krishnamurthy",
-   "name" : "censorify",
-   "version": "0.1.0",
-   "description": "Censors words out of text",
-   "main": "censortext"
+   "name" : "narain-censorify",
+   "version": "0.1.1",
+   "description": "This package helps you censor words out of text",
+   "main": "censortext",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/NarainKrishnamurthy/learning-MEAN/tree/master/censorify"
+   },
+   "keywords": [
+      "censor",
+      "narain",
+      "bad language"
+   ]
 }      
